@@ -1,0 +1,20 @@
+* 62a22f7 Agregando 2 parrafos
+*   18c04a9 Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 35a4f7f Agregando las estaciones del año
+* | 44c8e6a Agregando estaciones del año con fecha de inicio
+|/  
+*   49f84e5 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 965d827 Agregando index.js al index.html
+* | 735ed11 Agregando style.css al index.html
+* |   659865e Merge branch 'js'
+|\ \  
+| * | 6848ce6 Creando index.js
+* | | c557cdd Creando style.css
+| |/  
+|/|   
+* | 211d57f Creando index.html
+|/  
+* fba2e28 ignorando exes
+* d573dab yarecordegitamigo

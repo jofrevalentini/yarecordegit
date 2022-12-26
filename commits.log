@@ -1,0 +1,80 @@
+commit 62a22f78f97ca76ee3c6958b6a40358602e22998
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 15:54:41 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 18c04a9c32da9de72d8b9c574a6baa1823339b5a
+Merge: 44c8e6a 35a4f7f
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 15:52:08 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 44c8e6acfe54a36fcb1079f0d03de8c0c9f43f09
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 15:30:09 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 35a4f7f512654aead5da19c0b30cd4997defaaae
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 15:30:09 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 49f84e59100beb082a36fd3aca9cea28364bfbfc
+Merge: 735ed11 965d827
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:52:29 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 965d8276d99ffaacfec4cdd8a82698eb58199f92
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:44:32 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 735ed1111d14236a11806e883c6ce459608a0c01
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:41:05 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 659865e0034e8b65d26d0ea011459898057b2aee
+Merge: c557cdd 6848ce6
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:30:10 2022 -0500
+
+    Merge branch 'js'
+
+commit 6848ce6327c16037a4f2f32e00329081395d0ef4
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:21:21 2022 -0500
+
+    Creando index.js
+
+commit c557cdd2401da407a9132ec225eb3088db0b7990
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 14:14:08 2022 -0500
+
+    Creando style.css
+
+commit 211d57f138b0b431b0bf5c15e6a19c1a53caee4c
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 13:58:07 2022 -0500
+
+    Creando index.html
+
+commit fba2e287a09c40486cdc59b71e08682d5fff10bb
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 13:34:18 2022 -0500
+
+    ignorando exes
+
+commit d573dabd3e063fb86f9a746ddefa26e087f31dfa
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Dec 26 13:31:41 2022 -0500
+
+    yarecordegitamigo
